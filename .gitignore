@@ -1,0 +1,8 @@
+.env
+backend/gmail_token.json
+backend/token.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+uvicorn.*.log
